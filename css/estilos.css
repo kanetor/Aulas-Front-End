@@ -1,0 +1,13 @@
+header{
+    background-image: url("../img/fundo-banner.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#mybtn1{
+    text-decoration: none;
+    color: white;
+}
+#mybtn2{
+    text-decoration: none;
+    color: black;
+}
